@@ -1,0 +1,19 @@
+{
+  "name": "into-apis",
+  "version": "0.0.1",
+  "description": "Consumir una API externa",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "api",
+    "atenea",
+    "backend"
+  ],
+  "author": "Alejandra Mendoza",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
